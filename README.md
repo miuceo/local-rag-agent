@@ -1,4 +1,4 @@
-# LocalAIAgentWithRAG
+# Local AI Agent With RAG
 
 Build a **Local AI Agent with Python**, using **Ollama**, **LangChain**, and **RAG (Retrieval‑Augmented Generation)**.
 
