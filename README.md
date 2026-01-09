@@ -30,6 +30,10 @@ You’ll need:
     ```bash
     ollama pull (model_name, e.x llama3.2:1b)
     ```
+  - Pull a embed model (like a lightweight one)  
+    ```bash
+    ollama pull (model_name, e.x mxbai-embed-large)
+    ```
 - Virtual environment (recommended)
 
 ---
