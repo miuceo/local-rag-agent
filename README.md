@@ -28,7 +28,7 @@ You’ll need:
 - Ollama installed and running
   - Pull a local model (like a lightweight one)  
     ```bash
-    ollama pull (model_name)llama3.2:1b
+    ollama pull (model_name, e.x llama3.2:1b)
     ```
 - Virtual environment (recommended)
 
@@ -39,5 +39,5 @@ You’ll need:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/techwithtim/LocalAIAgentWithRAG.git
-   cd LocalAIAgentWithRAG
+   git clone https://github.com/miuceo/local-rag-agent.git
+   cd local-rag-agent
