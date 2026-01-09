@@ -28,11 +28,11 @@ You’ll need:
 - Ollama installed and running
   - Pull a local model (like a lightweight one)  
     ```bash
-    ollama pull (model_name, e.x llama3.2:1b)
+    ollama pull # (model_name, e.x llama3.2:1b)
     ```
   - Pull a embed model (like a lightweight one)  
     ```bash
-    ollama pull (model_name, e.x mxbai-embed-large)
+    ollama pull # (model_name, e.x mxbai-embed-large)
     ```
 - Virtual environment (recommended)
 
